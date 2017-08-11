@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "128424692908",
+    "firebase_url": "https://hallowed-cortex-160206.firebaseio.com",
+    "project_id": "hallowed-cortex-160206",
+    "storage_bucket": "hallowed-cortex-160206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128424692908:android:5c39af57b33b2aab",
+        "android_client_info": {
+          "package_name": "manandharbibesh.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128424692908-qalk2avlff36gf71164tcm6rrouslfbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCir2DXJFtgcoEC22V6ABsFYJIyuMwqEbs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
